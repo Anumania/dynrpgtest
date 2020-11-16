@@ -1,0 +1,5 @@
+EXPORTS
+    linkVersion @1 DATA
+    onDrawEvent @2
+    onFrame @3
+    onStartup @4
